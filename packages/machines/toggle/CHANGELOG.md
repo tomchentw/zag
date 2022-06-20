@@ -1,5 +1,12 @@
 # @zag-js/toggle
 
+## 0.1.9
+
+### Patch Changes
+
+- [`dd547f51`](https://github.com/chakra-ui/zag/commit/dd547f512f503c8e68e178aca91ed27fd9c82b46) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Add support for setting initial pressed state
+
 ## 0.1.8
 
 ### Patch Changes
